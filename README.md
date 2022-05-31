@@ -13,3 +13,7 @@
 3. Chapter 3: Slicing and Indexing Data
     - Subsetting using slicing
     - Indexes and subsetting using indexes
+4. Chapter 4: Creating and Visualizing Data
+    - Plotting
+    - Handling missing data
+    - Reading data into a DataFrame
