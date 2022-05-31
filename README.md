@@ -2,7 +2,6 @@
  This is a datacamp python course. In this course, how to use python's popular library pandas was shown. Pandas is the world's most popular library, used for everything from data manipulation to data analysis. How to manipulate dataframes, extracting, filtering and transforming real-world datasets for analysis were shown in this course. </br>
 
  ## Course Outline
----
 1. Chapter 1: DataFrames
     - Sorting and Subsetting
     - Creating new columns
@@ -17,3 +16,4 @@
     - Plotting
     - Handling missing data
     - Reading data into a DataFrame
+---
